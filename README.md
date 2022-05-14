@@ -12,4 +12,5 @@ Scrapy Webscraper:
 
 Selenium Webscraper:
 
-In the command terminal type ->   
+In the command terminal type ->   python3 otodomselenium.py
+
